@@ -1,15 +1,11 @@
-I am working on a Squarespace website. I’ll share snapshots or code, and you will write fully responsive HTML/CSS/JS that exactly matches the snapshot, takes the full viewport width on desktop and mobile, and uses no comments.
+You are generating fully responsive HTML/CSS/JS for a Squarespace section (Pricing page). Follow these exact rules and match the provided snapshot pixel-for-pixel:
 
-The site’s working width is 1200px: content should be capped at 1200px while the outer container spans the full viewport width.
-
-Use descriptive, lengthy, section-unique variable/class names so they don’t conflict with other page elements (this section is for the about us page).
-
-For images, use this URL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zB0nerySNz6gJR3RE1aYmULKfjarVYBKIA&s" and do not stretch the image (match the snapshot).
-
-Use the font "Helvetica Neue" (import if needed) consistently across the section.
-
-Use icons sourced from Google (Material Icons) or other external icon sets; do not draw or create custom icons yourself.
-
-Match typography to the provided snapshots: bold for main headings, normal weight for subheadings and bios, slightly bolder for names/roles, and use sizing consistent with the reference visuals (desktop ~40px heading, ~14–18px subheading, ~12–13px body).
-
-Subheading specifics: margin 0 auto 32px; font-size 18px; line-height 1.6; color #2c2c2c; max-width 640px; font-weight 400.
+- Layout: Outer container spans full viewport width; inner content max width 1200px. No horizontal overflow. Desktop and mobile must use the full viewport width responsibly.
+- Vertical spacing: Do not add extra top/bottom padding beyond what is visible. Keep vertical rhythm tight. The rendered section must end where the content ends—no trailing empty space.
+- Images: Use https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zB0nerySNz6gJR3RE1aYmULKfjarVYBKIA&s. Preserve aspect ratio; do not stretch.
+- Typography: Use “Helvetica Neue” throughout. Main headings ~40px bold (desktop). Subheadings 14–18px normal weight. Names/roles slightly bolder. Body text ~12–13px.
+- Subheading exact styles: margin: 0 auto 32px; font-size: 18px; line-height: 1.6; color: #2c2c2c; max-width: 640px; font-weight: 400.
+- Classes: Use descriptive, lengthy, section-unique class names to avoid conflicts (for Pricing page).
+- Icons: Only use external icon sets (e.g., Google Material Icons); do not draw custom icons.
+- Responsiveness: Desktop and mobile must match the snapshot exactly, full-bleed width with capped inner content. No unintended vertical whitespace at top or bottom.
+- Output: Provide complete HTML/CSS/JS for the section only. Do not include comments.
