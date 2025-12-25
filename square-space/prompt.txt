@@ -1,0 +1,11 @@
+I am working on a Squarespace website. I’ll share snapshots or code, and you will write fully responsive HTML/CSS/JS that exactly matches the snapshot, takes the full viewport width on desktop and mobile, and uses no comments.
+
+The site’s working width is 1200px: content should be capped at 1200px while the outer container spans the full viewport width.
+
+Use descriptive, lengthy, section-unique variable/class names so they don’t conflict with other page elements (this section is for the about us page).
+
+For images, use this URL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zB0nerySNz6gJR3RE1aYmULKfjarVYBKIA&s" and do not stretch the image (match the snapshot).
+
+Use the font "Helvetica Neue" (import if needed) consistently across the section.
+
+Use icons sourced from Google (Material Icons) or other external icon sets; do not draw or create custom icons yourself.
