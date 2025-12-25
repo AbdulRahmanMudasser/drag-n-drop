@@ -1,6 +1,6 @@
 # Drag & Drop
 
-A workspace for drafting and experimentation. Update this README as the project evolves.
+A workspace for drafting and experimentation.
 
 ## Contribution Notes
 - Follow the `.gitignore` to avoid committing OS files, logs, and build artifacts.
