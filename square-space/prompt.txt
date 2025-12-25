@@ -9,3 +9,7 @@ For images, use this URL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9G
 Use the font "Helvetica Neue" (import if needed) consistently across the section.
 
 Use icons sourced from Google (Material Icons) or other external icon sets; do not draw or create custom icons yourself.
+
+Match typography to the provided snapshots: bold for main headings, normal weight for subheadings and bios, slightly bolder for names/roles, and use sizing consistent with the reference visuals (desktop ~40px heading, ~14–18px subheading, ~12–13px body).
+
+Subheading specifics: margin 0 auto 32px; font-size 18px; line-height 1.6; color #2c2c2c; max-width 640px; font-weight 400.
