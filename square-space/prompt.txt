@@ -1,4 +1,4 @@
-You are generating fully responsive HTML/CSS/JS for a Squarespace section (Home page). Follow these exact rules and match the provided snapshot pixel-for-pixel:
+You are generating fully responsive HTML/CSS/JS for a Squarespace section (Services page). Follow these exact rules and match the provided snapshot pixel-for-pixel:
 
 - Layout: Outer container spans full viewport width; inner content max width 1200px. No horizontal overflow. Desktop and mobile must use the full viewport width responsibly.
 - Vertical spacing: Do not add extra top/bottom padding beyond what is visible. Keep vertical rhythm tight. The rendered section must end where the content ends—no trailing empty space.
